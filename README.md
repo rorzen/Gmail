@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Introduction 
+Setting up a Gmail account is easy. You will begin by creating a Google account, and during the quick sign-up process you will choose your Gmail account name. In this lesson, we'll show you how to set up your Google account for Gmail, add and edit contacts, and edit your mail settings.
 
-You can use the [editor on GitHub](https://github.com/rorzen/Test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+To create a Gmail account, you neeGoogle account, and during the quick sign-up process you will choose your Gmail account name. In this lesson, we'll show you how to set up your Google account for Gmail, add and edit contacts, and edit your mail settings.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Setting up a Gmail account 
+To create a Gmail address, you'll first need to create a Google account. Gmail will redirect you to the Google account sign-up page. You'll need to provide some basic information like your name, birth date, gender, and location. You will also need to choose a name for your new Gmail address. Once you create an account, you'll be able to start adding contacts and adjusting your mail settings. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rorzen/Test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To create an account: 
+1. Go to www.gmail.com. 
+2. Click Create account.
