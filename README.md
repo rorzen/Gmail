@@ -9,6 +9,6 @@ To create a Gmail address, you need to create a Google account. Gmail will redir
 ## To create an account: 
 1. Go to www.gmail.com. 
 2. Click **Create account**.
-https://github.com/rorzen/Gmail/blob/master/image1.jpg
+
 
 ![Image](https://github.com/rorzen/Gmail/blob/master/image1.jpg)
