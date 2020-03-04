@@ -24,4 +24,4 @@ image
 ![6 UI](/Git-images/image1.jpg)
 ![7 UI](Git-images/image1.jpg)
 
-![7 UI](Git-images/2020-03-04_19-28-58.png | width=20)
+![7 UI|512x397,100%](Git-images/2020-03-04_19-28-58.png)
