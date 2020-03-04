@@ -20,17 +20,6 @@ image
 image
 7. Review Google's Terms of Service and Privacy Policy, then click I agree.
 
-![ownCloud UI](/images/2019/08/owncloud-ui-login.png)
-
-![1 UI](https://github.com/rorzen/Gmail/blob/master/Git-images/image1.jpg)
-
-![2 UI](/rorzen/Gmail/blob/master/Git-images/image1.jpg)
-
-![3 UI](/Gmail/blob/master/Git-images/image1.jpg)
-
-![4 UI](/blob/master/Git-images/image1.jpg)
-
-![5 UI](/master/Git-images/image1.jpg)
 
 ![6 UI](/Git-images/image1.jpg)
 
