@@ -21,6 +21,5 @@ image
 7. Review Google's Terms of Service and Privacy Policy, then click I agree.
 
 
-![6 UI](/Git-images/image1.jpg =100x20)
-
+![6 UI](/Git-images/image1.jpg)
 ![7 UI](Git-images/image1.jpg)
