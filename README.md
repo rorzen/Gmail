@@ -85,21 +85,23 @@ Like all major email providers, Gmail lets you keep an address book of contacts 
 
 4. Enter the contact information, then click **Save**.
 
+![image](/Git-images/image14.jpg)
+
 ## To edit a contact:
 
 1. In the Google apps drop-down menu, select **Contacts**.
 
-![image](/Git-images/image14.jpg)
+![image](/Git-images/image15.jpg)
 
 2. Locate the contact you want to edit, then click Edit Contact.
 
-![image](/Git-images/image15.jpg)
+![image](/Git-images/image16.jpg)
 
 3. You can now make any changes you want to the contact.
 
 NOTE: By default, when you send an email to a new address, Gmail adds the address to your contacts. You can then go to your contacts to edit the person's information as needed.
 
-![image](/Git-images/image16.jpg)
+![image](/Git-images/image17.jpg)
 
 
 # Importing mail and contacts
@@ -110,7 +112,7 @@ You may already have a contact list from another email address, and it would be 
 
 1. Click the gear icon in the top-right corner of the page, then select **Settings**.
 2. Go to Accounts and click **Add a mail account**. You can then follow the instructions on the screen to import your mail.
-![image](/Git-images/image17.jpg)
+![image](/Git-images/image18.jpg)
 
  
 
