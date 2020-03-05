@@ -9,7 +9,7 @@ To create a Gmail address, you need to create a Google account. Gmail will redir
 ## To create an account: 
 1. Go to [Gmail Website](https://www.gmail.com). 
 2. Click **Create account**.
-image
+ ![image](/Git-images/image1.jpg)
 3. The **sign-up** form will appear. Follow the directions by entering the required information. 
 image
 4. Next, enter your phone number to verify your account. Google uses a two­step verification process for your security. 
@@ -19,12 +19,6 @@ image
 6. Next, you will see a form to enter some of your personal information, like your name and birthday.
 image
 7. Review Google's Terms of Service and Privacy Policy, then click I agree.
-
-<p align="center">   
+ 
  ![image](/Git-images/image1.jpg)
- 
- 
- <p align="center"> hello
- 
-  <img /> ![image](/Git-images/image1.jpg)
-</p>
+
