@@ -20,5 +20,5 @@ image
 image
 7. Review Google's Terms of Service and Privacy Policy, then click I agree.
 
-
+<p align="center">
 ![image](/Git-images/image1.jpg)
