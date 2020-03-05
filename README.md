@@ -13,7 +13,9 @@ To create a Gmail address, you need to create a Google account. Gmail will redir
  ![image](/Git-images/image1.jpg)
  
 3. The **sign-up** form will appear. Follow the directions by entering the required information. 
-image
+
+ ![image](/Git-images/image2.jpg)
+
 4. Next, enter your phone number to verify your account. Google uses a two­step verification process for your security. 
 image
 5. You will receive a text message from Google with a verification code. Enter the code to complete the account verification. 
@@ -22,5 +24,4 @@ image
 image
 7. Review Google's Terms of Service and Privacy Policy, then click I agree.
  
- ![image](/Git-images/image1.jpg)
 
