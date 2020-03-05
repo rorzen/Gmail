@@ -22,3 +22,8 @@ image
 
 <p align="center">   
  ![image](/Git-images/image1.jpg)
+ 
+ 
+ <p align="center">
+  <img /> ![image](/Git-images/image1.jpg)
+</p>
