@@ -21,36 +21,4 @@ image
 7. Review Google's Terms of Service and Privacy Policy, then click I agree.
 
 
-![6 UI](/Git-images/image1.jpg)
-![7 UI](Git-images/image1.jpg)
-
-![7 UI](Git-images/image2.png)
-
-
-![](Git-images/image2.png =20x20)
-
-![](Git-images/image2.png =50x)
-
-![Image alt text](Git-images/image2.png =5x5)
-
-
-<p align="center">
-
-
-![Image](Git-images/image2.png){ width="800" height="600" style="display: block; margin: 0 auto" }
-
-![drawing](Git-images/image2.png){ width=10% }
-
-
-![smiley](Git-images/image2.png){:height="36px" width="36px"}.
-
-
-![drawing](Git-images/image2.png)   
-{:.some-css-class style="width: 200px"}
-
-
-![drawing](Git-images/image2.png)   
-{:.some-css-class width="200"}
-
-
-![a-kitten.jpg](Git-images/image2.png =200x200)
+![image](/Git-images/image1.jpg)
