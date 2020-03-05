@@ -1,3 +1,19 @@
+## List of Contents
+- [Introduction](#introduction)
+- [Setting up a Gmail account](#setting-up-a-gmail-account)
+  * [To create an account:](#to-create-an-account-)
+- [Signing in to your account](#signing-in-to-your-account)
+  * [To sign in:](#to-sign-in-)
+  * [To sign out:](#to-sign-out-)
+- [Mail settings](#mail-settings)
+  * [To access your mail settings:](#to-access-your-mail-settings-)
+- [Adding contacts](#adding-contacts)
+  * [To add a contact:](#to-add-a-contact-)
+  * [To edit a contact:](#to-edit-a-contact-)
+- [Importing mail and contacts](#importing-mail-and-contacts)
+  * [To add other accounts:](#to-add-other-accounts-)
+
+
 # Introduction 
 
 This guide describes the information about setting up a Gmail account, add and edit contacts, and edit mail settings.
@@ -99,7 +115,7 @@ Like all major email providers, Gmail lets you keep an address book of contacts 
 
 3. You can now make any changes you want to the contact.
 
-NOTE: By default, when you send an email to a new address, Gmail adds the address to your contacts. You can then go to your contacts to edit the person's information as needed.
+**NOTE**: By default, when you send an email to a new address, Gmail adds the address to your contacts. You can then go to your contacts to edit the person's information as needed.
 
 ![image](/Git-images/image17.jpg)
 
