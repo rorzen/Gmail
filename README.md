@@ -14,7 +14,7 @@
   * [To add other accounts:](#to-add-other-accounts-)
 
 
-# Introduction 
+# Introduction [**[↑]**](#list-of-contents)
 
 This guide describes the information about setting up a Gmail account, add and edit contacts, and edit mail settings.
 
