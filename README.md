@@ -4,7 +4,7 @@ This guide describes the information about setting up a Gmail account, add and e
 
 # Setting up a Gmail account 
 
-To create a Gmail address, you need to create a Google account. Gmail will redirect you to the Google account sign-up page. You need to provide some basic information like your name, birth date, gender, and location. You also need to choose a name for your new Gmail address. Once you create an account, you can start adding contacts and adjusting your mail settings. 
+To create a Gmail address, you need to create a Google account. Gmail will redirect you to the Google account sign-up page. You need to provide some basic information like your name, birth date, gender, and location. You also need to choose a name for your new Gmail address. Once you create an account, you can start adding contacts and adjust your mail settings. 
 
 ## To create an account: 
 1. Go to [Gmail Website](https://www.gmail.com). 
@@ -16,7 +16,7 @@ To create a Gmail address, you need to create a Google account. Gmail will redir
 
  ![image](/Git-images/image2.jpg)
 
-4. Next, enter your phone number to verify your account. Google uses a two­step verification process for your security. 
+4. Next, enter your phone number to verify your account. Google uses a two step verification process for your security. 
 
  ![image](/Git-images/image3.jpg)
 
@@ -53,7 +53,7 @@ In the top-right corner of the page, locate the circle that has your first initi
  
 # Mail settings
 
-Occasionally, you may want to make adjustments to Gmail's appearance or behavior. For example, you could create a signature or vacation reply, edit your labels, or change the theme. These adjustments can be made from your mail settings.
+Occasionally, you may want to make adjustments to Gmail's appearance or behavior. For example, you can create a signature or vacation reply, edit your labels, or change the theme. These adjustments can be made from your mail settings.
 
 ## To access your mail settings:
 
@@ -75,7 +75,7 @@ Like all major email providers, Gmail lets you keep an address book of contacts 
 
 ![image](/Git-images/image11.jpg)
 
-2. Click the **Contacts** button in the drop-down menu.
+2. Click **Contacts** in the drop-down menu.
 
 ![image](/Git-images/image12.jpg)
 
@@ -93,7 +93,7 @@ Like all major email providers, Gmail lets you keep an address book of contacts 
 
 ![image](/Git-images/image15.jpg)
 
-2. Locate the contact you want to edit, then click Edit Contact.
+2. Locate the contact you want to edit, then click **Edit Contact**.
 
 ![image](/Git-images/image16.jpg)
 
