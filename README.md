@@ -18,11 +18,11 @@
 
 This guide describes the information about setting up a Gmail account, add and edit contacts, and edit mail settings.
 
-# Setting up a Gmail account 
+# Setting up a Gmail account [**[↑]**](#list-of-contents)
 
 To create a Gmail address, you need to create a Google account. Gmail will redirect you to the Google account sign-up page. You need to provide some basic information like your name, birth date, gender, and location. You also need to choose a name for your new Gmail address. Once you create an account, you can start adding contacts and adjust your mail settings. 
 
-## To create an account: 
+## To create an account: [**[↑]**](#list-of-contents)
 1. Go to [Gmail Website](https://www.gmail.com). 
 2. Click **Create account**.
 
@@ -50,28 +50,28 @@ To create a Gmail address, you need to create a Google account. Gmail will redir
  
  8. Your account is created.
  
-# Signing in to your account
+# Signing in to your account [**[↑]**](#list-of-contents)
 
 When you first create your account, you will be automatically signed in. Most of the time, however, you'll need to sign in to your account and sign out when you're done with it.
 
-## To sign in:
+## To sign in: [**[↑]**](#list-of-contents)
 
 1. Go to [Gmail Website](https://www.gmail.com).
 2. Type your **user name** (your email address) and **password**, then click **Next**.
 
  ![image](/Git-images/image7.jpg)
  
-## To sign out:
+## To sign out: [**[↑]**](#list-of-contents)
 
 In the top-right corner of the page, locate the circle that has your first initial (if you've already selected an avatar image, it will show the image instead). To sign out, click the circle and select **Sign out**.
 
  ![image](/Git-images/image8.jpg)
  
-# Mail settings
+# Mail settings [**[↑]**](#list-of-contents)
 
 Occasionally, you may want to make adjustments to Gmail's appearance or behavior. For example, you can create a signature or vacation reply, edit your labels, or change the theme. These adjustments can be made from your mail settings.
 
-## To access your mail settings:
+## To access your mail settings: [**[↑]**](#list-of-contents)
 
 1. Click the gear icon in the top-right corner of the page, then select **Settings**.
 
@@ -81,11 +81,11 @@ Occasionally, you may want to make adjustments to Gmail's appearance or behavior
 
 ![image](/Git-images/image10.jpg)
 
-# Adding contacts
+# Adding contacts [**[↑]**](#list-of-contents)
 
 Like all major email providers, Gmail lets you keep an address book of contacts so you don't have to memorize everyone's email addresses. You can also add other contact information, like phone numbers, birthdays, and physical addresses.
 
-## To add a contact:
+## To add a contact: [**[↑]**](#list-of-contents)
 
 1. Click the **Google apps** button.
 
@@ -103,7 +103,7 @@ Like all major email providers, Gmail lets you keep an address book of contacts 
 
 ![image](/Git-images/image14.jpg)
 
-## To edit a contact:
+## To edit a contact: [**[↑]**](#list-of-contents)
 
 1. In the Google apps drop-down menu, select **Contacts**.
 
@@ -120,11 +120,11 @@ Like all major email providers, Gmail lets you keep an address book of contacts 
 ![image](/Git-images/image17.jpg)
 
 
-# Importing mail and contacts
+# Importing mail and contacts [**[↑]**](#list-of-contents)
 
 You may already have a contact list from another email address, and it would be a lot of work to re-enter all of this information manually. Gmail allows you to import your contacts from another email account, and you can even import all of your email messages from that account.
 
-## To add other accounts:
+## To add other accounts: [**[↑]**](#list-of-contents)
 
 1. Click the gear icon in the top-right corner of the page, then select **Settings**.
 2. Go to Accounts and click **Add a mail account**. You can then follow the instructions on the screen to import your mail.
